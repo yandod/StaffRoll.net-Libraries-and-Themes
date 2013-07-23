@@ -22,7 +22,7 @@ Themes
 
 **Tsutomu Kawamura**
 
-+ http://www.osscafe.com/
++ http://www.osscafe.net/
 + http://github.com/cognitom
 + http://www.facebook.com/cognitom
 + http://jobsa.jp/
